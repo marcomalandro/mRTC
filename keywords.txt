@@ -1,0 +1,16 @@
+#######################################
+# Syntax Highlighting for mRTC Library
+#######################################
+
+# Class Name
+mRTC        KEYWORD1
+
+# Public Functions
+init        KEYWORD2
+connected   KEYWORD2
+update      KEYWORD2
+boot_dt     KEYWORD2
+now         KEYWORD2
+str         KEYWORD2
+print       KEYWORD2
+delta       KEYWORD2
